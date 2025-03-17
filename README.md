@@ -1,8 +1,10 @@
 ## Install
 
-`git clone https://github.com/IAMJackYan/Fed-LWR.git
+```
+git clone https://github.com/IAMJackYan/Fed-LWR.git
 
-pip install -r requirements.txt`
+pip install -r requirements.txt
+```
 
 ## Prepare data
 
@@ -17,7 +19,8 @@ pip install -r requirements.txt`
 
 ## Citation
 
-`@InProceedings{Yan2024fedlwr,
+```
+@InProceedings{Yan2024fedlwr,
 
 author="Yan, Yunlu and Zhu, Lei and Li, Yuexiang and Xu, Xinxing and Goh, Rick Siow Mong and Liu, Yong and Khan, Salman and Feng, Chun-Mei",
 
@@ -31,6 +34,7 @@ publisher="Springer Nature Switzerland",
 
 address="Cham",
 
-pages="13--23",}`
+pages="13--23",}
+```
 
 
