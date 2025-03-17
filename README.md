@@ -21,19 +21,12 @@ pip install -r requirements.txt
 
 ```
 @InProceedings{Yan2024fedlwr,
-
 author="Yan, Yunlu and Zhu, Lei and Li, Yuexiang and Xu, Xinxing and Goh, Rick Siow Mong and Liu, Yong and Khan, Salman and Feng, Chun-Mei",
-
 title="A New Perspective to Boost Performance Fairness For Medical Federated Learning",
-
 booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024",
-
 year="2024",
-
 publisher="Springer Nature Switzerland",
-
 address="Cham",
-
 pages="13--23",}
 ```
 
